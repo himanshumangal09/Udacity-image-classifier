@@ -9,8 +9,12 @@
 # Software and Libraries
 
 This project uses the following software and Python libraries:
-NumPy, pandas, Sklearn / scikit-learn, Matplotlib (for data visualization), Seaborn (for data visualization)
+NumPy, 
+pandas, 
+Sklearn / scikit-learn, 
+Matplotlib (for data visualization), 
+Seaborn (for data visualization)
 
-Code File
+# Code File
 
 Open file jupyter notebook imageclassifierproject.ipynb
